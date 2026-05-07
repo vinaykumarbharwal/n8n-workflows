@@ -1,4 +1,4 @@
-# n8n Workflow Collection
+# n8n-Workflow Collection
 
 <div align="center">
 
